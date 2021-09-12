@@ -1,1 +1,1 @@
-# movies-postgresql
+# Movies PostgreSQL Application
